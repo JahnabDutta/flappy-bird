@@ -1,26 +1,25 @@
 .grid{
     width:400px;
     height: 600px;
-    background-color: #ece59a;
+    background-color: #3f29d1;
     position: relative;
-    margin: 0 auto;
 }
 
 .bird{
     height: 50px;
     width: 50px;
     position: absolute;
-    color:#1adae4;
+    background-color:#c233c5;
 }
 .pillar-top{
-    width:70px;
+    width:50px;
     height:200px;
     background-color: #00b612;
     position: absolute;
     top:0;
 }
 .pillar-bottom{
-    width:70px;
+    width:50px;
     height:200px;
     background-color: #00b612;
     position: absolute;
